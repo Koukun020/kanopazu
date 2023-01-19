@@ -8,6 +8,7 @@ assetsAFSurl:https://assets.enish-games.com/assets-falcon/Resources/share/{$name
 <br>
 $version = "1_10.10"
 <br>
-マスターデータはごとぱずの2021年8月後半ごろのデータをコピーしているようです。<br>
+<br>
+マスターデータはごとぱずのデータを元にしているようです。<br>
 そのため、ガチャデータなどにごとぱずのデータが入っています。<br>
 各jsonの説明は一緒なのでごとぱずのReadmeを見てください。
